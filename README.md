@@ -1,8 +1,13 @@
-- 👋 Hi, I’m François-Xavier COUDEA
-- 👀 I’m interested by web development...
-- 🌱 I’m currently learning django ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm François-Xavier Coudea — a Backend Developer from Benin 🇧🇯  
+
+💻 I specialize in building modern and scalable APIs using **Python** and **Django REST Framework**.  
+⚙️ I also automate workflows and data pipelines with **n8n** and **Python** scripts.  
+📊 Passionate about **Data Engineering**, **Automation**, and **Clean Backend Architecture**.  
+
+🚀 Currently working at Intside and open to freelance opportunities.  
+📫 Reach me at: coudeafx@gmail.com  
+🌐 Portfolio: (add your link here)
+
 
 <!---
 francois-xavi/francois-xavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
