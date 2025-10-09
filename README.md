@@ -6,7 +6,7 @@
 
 🚀 Currently working at Intside and open to freelance opportunities.  
 📫 Reach me at: coudeafx@gmail.com  
-🌐 Portfolio: [(see more)](https://francois-xavier-coudea.vercel.app/)
+🌐 Portfolio: [(click here)](https://francois-xavier-coudea.vercel.app/)
 
 
 <!---
