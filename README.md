@@ -1,4 +1,4 @@
-👋 Hi, I'm François-Xavier Coudea — a Senior Backend Developer 
+👋 Hi, I'm François-Xavier Coudea — a  Backend Developer 
 
 💻 I specialize in building modern and scalable APIs using **Python** and **Django REST Framework**.  
 ⚙️ I also automate workflows and data pipelines with **n8n** and **Python** scripts.  
