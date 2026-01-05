@@ -4,7 +4,7 @@
 ⚙️ I also automate workflows and data pipelines with **n8n** and **Python** scripts.  
 📊 Passionate about **Data Engineering**, **Automation**, and **Clean Backend Architecture**.  
 
-🚀 Currently working at Intside and open to freelance opportunities.  
+🚀 i'm open to freelance opportunities.  
 📫 Reach me at: coudeafx@gmail.com  
 🌐 Portfolio: [(click here)](https://francois-xavier-coudea.vercel.app/)
 
